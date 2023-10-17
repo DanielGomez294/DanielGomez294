@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @DanielGomez294
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-DanielGomez294/DanielGomez294 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 ¡Hola! Soy Daniel Gomez, un desarrollador web especializado en React con Next.js.
+👀 Estoy interesado en buscar oportunidades en el desarrollo de software en empresas innovadoras.
+🌱 Actualmente estoy aprendiendo y perfeccionando mis habilidades en React.
+💞️ Estoy buscando colaborar en proyectos interesantes.
+📫 Puedes contactarme en danielgomez2941998@gmail.com.
